@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mindam.kenny@gmail.com",
+    "longName": "HFASt SMS v.3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ReplyOptions.png",
+                "name": "REPLYOPTIONS",
+                "type": "png"
+            },
+            {
+                "file": "images/pebblesmsmenu.png",
+                "name": "MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/msgicon.png",
+                "name": "MSGICON",
+                "type": "png"
+            },
+            {
+                "file": "images/HFAStLogo.png",
+                "menuIcon": true,
+                "name": "HFASTLOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "HFASt SMS v.3",
+    "uuid": "0f415f6f-2b01-480a-966b-594b2d820ad2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
